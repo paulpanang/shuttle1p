@@ -500,3 +500,4 @@ async fn main() -> shuttle_axum::ShuttleAxum {
 
     Ok(router.into())
 }
+
